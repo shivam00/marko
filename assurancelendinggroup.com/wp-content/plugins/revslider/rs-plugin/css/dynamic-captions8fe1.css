@@ -1,0 +1,176 @@
+.tp-caption.slider_title {
+font-size:58px;
+line-height:64px;
+font-weight:600;
+font-family:Raleway;
+color:rgb(249, 249, 249);
+text-decoration:none;
+text-align:left;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
+.tp-caption.black_bg {
+font-size:38px;
+line-height:37px;
+font-weight:300;
+font-family:Roboto;
+color:rgb(255, 255, 255);
+text-decoration:none;
+padding:10px 28px;
+text-shadow:none;
+background-color:rgb(34, 34, 34);
+background-color:rgba(34, 34, 34, 0.819608);
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
+.tp-caption.slider_title_desc {
+font-size:18px;
+line-height:30px;
+font-weight:400;
+font-family:Raleway;
+color:rgb(249, 249, 249);
+text-decoration:none;
+text-align:left;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
+.tp-caption.black {
+font-size:44px;
+line-height:50px;
+font-weight:500;
+font-family:Roboto;
+color:rgb(68, 68, 68);
+text-decoration:none;
+text-shadow:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
+.tp-caption.medium {
+font-size:22px;
+line-height:27px;
+font-weight:500;
+font-family:Roboto;
+color:rgb(234, 161, 51);
+text-decoration:none;
+text-shadow:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
+.tp-caption.small {
+font-size:16px;
+line-height:23px;
+font-weight:400;
+font-family:Roboto;
+color:rgb(153, 153, 153);
+text-decoration:none;
+text-shadow:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
+.tp-caption.SLIDER2 {
+font-size:61px;
+line-height:73px;
+font-weight:900;
+font-family:Raleway;
+color:rgb(255, 255, 255);
+text-decoration:none;
+text-shadow:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
+.tp-caption.black_small {
+font-size:16px;
+line-height:23px;
+font-weight:300;
+color:rgb(85, 85, 85);
+text-decoration:none;
+text-shadow:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
+.tp-caption.white_bg {
+font-size:38px;
+line-height:37px;
+font-weight:300;
+font-family:Roboto;
+color:rgb(34, 34, 34);
+text-decoration:none;
+padding:10px 28px;
+text-shadow:none;
+background-color:rgb(255, 255, 255);
+background-color:rgba(255, 255, 255, 0.819608);
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
+.tp-caption.Big_title_black {
+font-size:84px;
+line-height:76px;
+font-weight:600;
+font-family:"Open Sans";
+color:rgb(255, 255, 255);
+text-decoration:none;
+text-shadow:none;
+text-transform:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(255, 255, 255);
+border-style:none;
+}
+
+.tp-caption.med_title_black {
+font-size:24px;
+line-height:36px;
+font-weight:500;
+font-family:"Open Sans";
+color:rgb(255, 255, 255);
+text-decoration:none;
+padding:5px 20px;
+text-shadow:none;
+letter-spacing:1.5px;
+background-color:transparent;
+border-width:3px;
+border-color:rgb(255, 255, 255);
+border-style:solid;
+}
+
+.tp-caption.small_title {
+font-size:16px;
+line-height:29px;
+font-weight:400;
+font-family:"Open Sans";
+color:#eeeeee;
+text-decoration:none;
+text-shadow:none;
+letter-spacing:0px;
+text-transform:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(255, 255, 255);
+border-style:none;
+}
+
